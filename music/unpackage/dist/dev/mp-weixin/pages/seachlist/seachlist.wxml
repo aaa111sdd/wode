@@ -1,0 +1,1 @@
+<view class="data-v-8ddbe67c"><musichead wx:if="{{a}}" class="data-v-8ddbe67c" u-i="8ddbe67c-0" bind:__l="__l" u-p="{{a}}"></musichead><view wx:for="{{b}}" wx:for-item="item" wx:key="c" bindtap="{{item.d}}" class="musiclist data-v-8ddbe67c"><view class="data-v-8ddbe67c">{{item.a}}. {{item.b}}</view><image class="data-v-8ddbe67c" src="/static/play.png"></image></view></view>

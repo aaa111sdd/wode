@@ -1,0 +1,20 @@
+
+.musiclist.data-v-8ddbe67c {
+		background-color: beige;
+}
+.musiclist view.data-v-8ddbe67c {
+		border-radius: 3%;
+		border: 2rpx solid rosybrown;
+		background-color: antiquewhite;
+		position: relative;
+		height: 100rpx;
+		margin-left: 30rpx;
+		font-size: 40rpx;
+}
+.musiclist image.data-v-8ddbe67c {
+		position: relative;
+		height: 70rpx;
+		width: 70rpx;
+		left: 600rpx;
+		bottom: 80rpx;
+}

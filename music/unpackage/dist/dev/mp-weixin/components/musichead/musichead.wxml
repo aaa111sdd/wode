@@ -1,0 +1,1 @@
+<view class="music-head data-v-62260a2d" style="{{'color:' + e}}"><view wx:if="{{a}}" class="music-head-icon data-v-62260a2d"><image bindtap="{{b}}" class="image1 data-v-62260a2d" src="/static/chevron-leftss.png"></image><text class="data-v-62260a2d">|</text><image bindtap="{{c}}" class="image2 data-v-62260a2d" src="/static/hui.png"></image></view> {{d}}</view>
